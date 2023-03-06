@@ -1,0 +1,4 @@
+body{font-family: "Comic Sans MS", "Comic Sans", cursive; background-color: cornflowerblue;}
+hr{background:none; clear:both; float:none; width:100%; height:1px; border:none; margin:-1px 0;}
+html {scroll-behavior: smooth;}
+/* Don't forget to use this in conjunction with icon3.png. */
