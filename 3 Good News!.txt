@@ -1,0 +1,28 @@
+Apparently, the 1 gigabyte size limit for public repositories on GitHub Pages is not a hard limit.
+
+It's true that using less than 1 gigabyte for a public repository is ideal, but I can go up to 5 gigabytes if the need presents itself.
+
+To ensure that I can work on this project for a long time, I am no longer making videos for the video page.
+
+Since I'm just making art, music and text, the size limit of 5 gigabytes should take a decade or two to fill up completely.
+
+Now I don't have to worry about size limits for a long ass time!
+
+At most, an individual piece of art or music takes up about 3 megabytes, and text posts usually take up less than 1 megabyte.
+
+I'm pretty much set up for a few years!
+
+All I can say at this rate is...
+
+Thank you GitHub Pages for giving me my Internet freedom back!
+
+Also, if the source code for my website can help you in your current project, please feel free to copy it!
+
+I'm all for sharing!
+
+Keep an eye out for new drawings, digital art, and text posts on my website!
+
+I plan to update this website whenever I make anything new.
+
+Cheers!
+
